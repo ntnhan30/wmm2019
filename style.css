@@ -612,4 +612,6 @@ img.outline {
 		font-size: 14px;
 	}
 }
-
+.sponsor {
+	min-height: 500px;
+}
